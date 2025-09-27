@@ -4,5 +4,6 @@ prompt: 在根目录下创建最简单的html，可以索引(点击)所有子文
 # tools
 - [Xget - 超高性能开发者资源访问加速引擎](https://github.com/xixu-me/Xget) - 为开发者提供跨多个平台的统一高效加速体验
 - [Cloudflare Pages](https://pages.cloudflare.com/) - JAMstack平台，为前端开发者提供快速协作和部署网站的服务
+- [PDFgear - 免费的PDF压缩器](https://www.pdfgear.com/zh/compress-pdf/) - 在线减小PDF大小，支持无损压缩，无需注册
 
 
